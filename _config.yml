@@ -1,29 +1,41 @@
-name: Steinar.Aandal-Vanger
-favicon: null
-layout_spectrum: 0.9122351557016373
-typography_spectrum: 0.29728382686153054
 title: Steinar sine ting
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.171449878718704
+  brandStrength: 0.3006441385950893
+  rhythmicContrast: 0.07372275413945317
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.3006441385950893
   lightness: 0.7492657897528261
-  saturation: 0.17144987871870399
-  rhythmicContrast: 0.07372275413945317
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Steinar.Aandal-Vanger
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2972838268615305
+layout_spectrum: 1
