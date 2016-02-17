@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Steinar sine ting]]></title>
         <description><![CDATA[Steinar sine ting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://steinar.aandal-vanger.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 08:58:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 11:34:39 GMT</lastBuildDate>
+        <atom:link href="http://steinar.aandal-vanger.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scary stuff]]></title>
+            <description><![CDATA[<article><h1>Scary stuff</h1><p>The latest round of embarrassing federal data breaches struck the very agencies charged with protecting Americans, evidence one leading member of Congress believes is proof that throwing money at a problem doesn't solve much unless there's accountability to go with it. Last week, the personal data of some 20,000 FBI employees and more than [...]</p><img src="http://mobile.wnd.com/files/2016/02/cyber-security-hack-TW.jpg"></article>]]></description>
+            <link>http://mobile.wnd.com/2016/02/100-billion-later-feds-fumble-on-cybersecurity/</link>
+            <guid isPermaLink="false">98709d04-adfd-4a1c-b7d8-dbb6db98a4d9</guid>
+            <pubDate>Wed, 17 Feb 2016 11:33:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Symphonical - Boost your teams' productivity]]></title>
-            <description><![CDATA[<article><h1>Symphonical - Boost your teams' productivity</h1><p>The quickest way to get things done! Symphonical is an easy and fun app made of whiteboards and sticky notes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6488a39de0959c5b453fb015b237f66bc623489.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Symphonical - Boost your teams' productivity</h1><p>The quickest way to get things done! Symphonical is an easy and fun app made of whiteboards and sticky notes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a5878dff2eaefd6e3410f5ff904be298478520b.png"></article>]]></description>
             <link>https://www.symphonical.com/wall/swB6xK/calendar</link>
             <guid isPermaLink="false">3d27edd1-de55-4bfc-9ab8-0ff14d73d539</guid>
             <pubDate>Wed, 17 Feb 2016 08:58:25 GMT</pubDate>
