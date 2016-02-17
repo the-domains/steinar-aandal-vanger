@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Steinar sine ting]]></title>
+        <description><![CDATA[Steinar sine ting]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 08:58:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Symphonical - Boost your teams' productivity]]></title>
+            <description><![CDATA[<article><h1>Symphonical - Boost your teams' productivity</h1><p>The quickest way to get things done! Symphonical is an easy and fun app made of whiteboards and sticky notes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6488a39de0959c5b453fb015b237f66bc623489.png"></article>]]></description>
+            <link>https://www.symphonical.com/wall/swB6xK/calendar</link>
+            <guid isPermaLink="false">3d27edd1-de55-4bfc-9ab8-0ff14d73d539</guid>
+            <pubDate>Wed, 17 Feb 2016 08:58:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
