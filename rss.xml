@@ -4,8 +4,15 @@
         <description><![CDATA[Steinar sine ting]]></description>
         <link>http://steinar.aandal-vanger.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 11:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 11:44:42 GMT</lastBuildDate>
         <atom:link href="http://steinar.aandal-vanger.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mårnes]]></title>
+            <description><![CDATA[<article><h1>Mårnes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6ba1b564667d0b8ed243a3a902a47b1bf372091.png"></article>]]></description>
+            <link>http://steinar.aandal-vanger.no/marnes/index.html</link>
+            <guid isPermaLink="false">5e863430-6646-4f3a-afa9-71f8ee8b3550</guid>
+            <pubDate>Wed, 17 Feb 2016 11:44:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sandhornøya]]></title>
             <description><![CDATA[<article><h1>Sandhornøya</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fbdd942b62f18f56dc6f472b52994737b59f2c6.png"></article>]]></description>
