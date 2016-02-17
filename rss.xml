@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Steinar sine ting]]></title>
-        <description><![CDATA[Steinar sine ting]]></description>
+        <title><![CDATA[Hindsight is the fool´s science]]></title>
+        <description><![CDATA[Hindsight is the fool´s science]]></description>
         <link>http://steinar.aandal-vanger.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 11:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 17:03:31 GMT</lastBuildDate>
         <atom:link href="http://steinar.aandal-vanger.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*k31CzsZOtqA89PBVNN5zWA.jpeg">]]></description>
+            <link>http://steinar.aandal-vanger.no/9cdcb21c-89db-4ff0-ae7c-10dce532a81e/index.html</link>
+            <guid isPermaLink="false">9cdcb21c-89db-4ff0-ae7c-10dce532a81e</guid>
+            <pubDate>Wed, 17 Feb 2016 17:02:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mårnes]]></title>
             <description><![CDATA[<article><h1>Mårnes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6ba1b564667d0b8ed243a3a902a47b1bf372091.png"></article>]]></description>
